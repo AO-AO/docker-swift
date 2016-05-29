@@ -1,0 +1,2 @@
+/dev/vdb /srv/node/vdb xfs noatime,nodiratime,nobarrier,logbufs=8 0 2
+/dev/vdc /srv/node/vdc xfs noatime,nodiratime,nobarrier,logbufs=8 0 2
